@@ -12,7 +12,7 @@
     text-decoration: none;
     color: #ffffff;
 
-    max-height: 740px;
+    min-height: 740px;
 }
 
 .cover__background::before {
