@@ -1,0 +1,13 @@
+.place__link {
+    grid-area: website;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+}
+
+.place__link:hover {
+    opacity: .8;
+    transition: 1.1s;
+}

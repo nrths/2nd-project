@@ -1,0 +1,32 @@
+.intro {
+    max-width: 690px;  
+    margin: 92px 148px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+@media (max-width: 1279px) {
+    .intro {
+        margin: 92px 48px 0px;
+    }
+    
+}
+
+@media (max-width: 1023px) {
+    .intro {
+        max-width: 720px;
+        margin: 88px 24px 0px 24px;
+        justify-content: center;
+    }
+    
+}
+
+@media (max-width: 425px) {
+    .intro {
+        max-width: 288px;
+        margin: 64px 16 px 0px 16px;
+        justify-content: center;
+    }
+    
+}
