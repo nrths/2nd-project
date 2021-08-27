@@ -2,6 +2,12 @@
     align-self: end;
 }
 
+@media (max-width: 680px) and (min-width: 426px) {
+    .place__website {
+        align-self: center;
+    }
+    
+}
 @media (max-width: 425px) {
     .place__website {
         padding-left: 16px;

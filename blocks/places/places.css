@@ -24,6 +24,13 @@
     
 }
 
+@media (max-width: 680px) {
+    .places {
+        margin: 0 auto;
+    }
+    
+}
+
 @media (max-width: 425px) {
     .places {
         padding: 0;
