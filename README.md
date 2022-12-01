@@ -1,10 +1,15 @@
-# Проект: Путешествие по России
+# Путешествие по России
+Адаптивный лендинг о путешествия по России.
+## Stack
+* HTML
+* CSS (flexbox, grid)
+* [Макет Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+* БЭМ
+## Запуск проекта
 
-Проект сайта о путешествиях по России. Адаптивная вёрстка.  
-__Используется:__
-* Анимация
-* Flexbox
-* Grid
-
-
-__GitHub Pages:__ https://nrths.github.io/russian-travel/
+```bash
+  запустить файл index.html в браузере (Google Chrome, Opera, Firefox, Yandex, Microsoft Edge)
+```
+    
+## GitHubPages
+[🟢 click here](https://nrths.github.io/russian-travel/)
